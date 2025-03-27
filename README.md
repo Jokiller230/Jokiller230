@@ -1,5 +1,7 @@
 <br>
 <h1 align="center">o-o-- About me --o-o<br></h1>
+<div align="center"><img src=".github/assets/cyn-hi-chat-cyn-murder-drones.gif" width=200></div>
+<br>
 <div align="center">Me, myself and I :3</div>
 <br>
 
