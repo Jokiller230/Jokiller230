@@ -5,14 +5,13 @@
 <br>
 
 ## 🚀 Active projects
-These are my self-proclaimed most "actively" maintained and worked on projects, sorted by level of importance, as of the last update [07/04/2025]
+These are my self-proclaimed most "actively" maintained and worked on projects, sorted by level of importance, as of the last update [24/04/2025]
 
-
+o-- Puzzlevision: My forever W.I.P NixOS configuration :3
+<br>
 o-- VoidyDiscord: My Discord bot
 <br>
 o-- Snowflake: My personal status and mood tracking API :3
-<br>
-o-- Puzzlevision: My forever W.I.P NixOS configuration :3
 <br>
 o-- TvcRepositoryBackend: A (for now) private project, which aims to be an open-source alternative to the official [Shopware plugin store](https://store.shopware.com)
 <br>
