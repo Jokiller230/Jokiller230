@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Jo
 
-> Web developer with growing interest in game development.
+> Web developer with growing interest in game development and declarative systems.
+> *"🌸 Stab, oops :3"*
 
 ![Hi Chat](.github/assets/cyn-hi-chat-cyn-murder-drones.gif)
 
@@ -17,7 +18,7 @@ Last updated: April 28, 2025
 | **TvcRepositoryBackend** | Alternative to the official [Shopware plugin store](https://store.shopware.com/) | 🔒 Private (for now) | TypeScript, Deno |
 | **TvcCustomRepositories** | Works with TvcRepositoryBackend to provide improved plugin management for Shopware | 🔒 Private (for now) | PHP, Symfony, Shopware |
 
-## 💻 Technical Skills
+## 💻 Mental Illnesses
 
 ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
@@ -27,15 +28,7 @@ Last updated: April 28, 2025
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-00684A?style=flat-square&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jokiller230&show_icons=true&theme=dark)
-
 ## 📫 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/-X/Twitter-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/@jokiller230)
 [![Discord](https://img.shields.io/badge/-Bluesky-349CFF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/thevoid.cafe)
-
----
-
-*"🌸 Stab, oops :3"*
