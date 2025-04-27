@@ -22,8 +22,10 @@ Last updated: April 28, 2025
 ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
 ![Discord API](https://img.shields.io/badge/-Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-00684A?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
 
