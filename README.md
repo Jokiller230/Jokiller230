@@ -5,19 +5,6 @@
 
 ![Hi Chat](.github/assets/cyn-hi-chat-cyn-murder-drones.gif)
 
-## 🚀 Active Projects
-
-These are my current projects, sorted by importance and activity level.
-Last updated: April 28, 2025
-
-| Project | Description | Status | Tech Stack |
-|---------|-------------|--------|-----------|
-| [**Puzzlevision**](https://github.com/Jokiller230/puzzlevision) | My forever W.I.P NixOS configuration | 🔄 Ongoing | Nix |
-| [**VoidyDiscord**](https://github.com/Jokiller230/VoidyDiscord) | Custom Discord bot with unique features | 🟢 Active | TypeScript, Discord.js, MongoDB |
-| **Snowflake** | Personal status and mood tracking API | 📝 Draft | TypeScript, PostgreSQL |
-| **TvcRepositoryBackend** | Alternative to the official [Shopware plugin store](https://store.shopware.com/) | 🔒 Private (for now) | TypeScript, Deno |
-| **TvcCustomRepositories** | Works with TvcRepositoryBackend to provide improved plugin management for Shopware | 🔒 Private (for now) | PHP, Symfony, Shopware |
-
 ## 💻 Mental Illnesses
 
 ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white)
