@@ -1,11 +1,12 @@
-# 👋 Hello, I'm Jo
+## 👋 Hello, I'm Jo
 
-> Web developer with growing interest in game development and declarative systems.
-> *"🌸 Stab, oops :3"*
+> I'm primarily a web-developer, with additional interest in game-development/-modding.
+> Among others, some of the games I've modded before are Bonelab, Fortnite (Rift) and Mario Kart.
+> In recent years, VR has also peaked my interest quite a lot, I regularly use my Quest 3 to experiment in Unity, or play/mod Bonelab.
 
-![Hi Chat](.github/assets/cyn-hi-chat-cyn-murder-drones.gif)
+> Anywho, that's about it, feel free to check out some of my repositories for more info regarding specific projects!
 
-## 💻 I work with
+#### > `💻 I work with`
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
@@ -19,10 +20,9 @@
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-00684A?style=flat-square&logo=mongodb&logoColor=white)
-
 ![Zed](https://img.shields.io/badge/-Zed-white?style=flat-square&logo=zedindustries&logoColor=black)
 
-## 📫 Connect With Me
+#### > `📫 Connect with me`
 
 [![Twitter](https://img.shields.io/badge/-X/Twitter-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/@jokiller230)
 [![Discord](https://img.shields.io/badge/-Bluesky-349CFF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/thevoid.cafe)
