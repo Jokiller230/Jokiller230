@@ -1,28 +1,44 @@
-## 👋 Hello, I'm Jo
+┌─────────────────────────────────────────────┐  
+~ ☕ _hey, i'm jo_  
+└─────────────────────────────────────────────┘
 
-> I'm primarily a web-developer, with additional interest in game-development/-modding.
-> Among others, some of the games I've modded before are Bonelab, Fortnite (Rift) and Mario Kart.
-> In recent years, VR has also peaked my interest quite a lot, I regularly use my Quest 3 to experiment in Unity, or play/mod Bonelab.
+> I'm a web developer with a soft spot for VR tinkering, game modding, and nixos systems.  
+> You'll find me playing with TypeScript, building cozy UIs, or tweaking Bonelab mods on my Quest 3.
 
-> Anywho, that's about it, feel free to check out some of my repositories for more info regarding specific projects!
+> Anywho, that's about it, feel free to check out some of my repositories...
 
-#### > `💻 I work with`
+┌─────────────────────────────────────────────┐  
+~ ⌨️ _languages & tools_  
+└─────────────────────────────────────────────┘
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
-![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-red?style=flat-square&logo=svelte&logoColor=white)
-![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-C69?style=flat-square&logo=sass&logoColor=white)
-![Discord API](https://img.shields.io/badge/-Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white)
-![RenovateBot](https://img.shields.io/badge/RenovateBot-1A1F6C?style=flat-square&logo=renovate&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-efebd4?style=flat-round&logo=typescript&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-efebd4?style=flat-round&logo=rust&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-efebd4?style=flat-round&logo=php&logoColor=black)
+![Nix](https://img.shields.io/badge/-Nix-efebd4?style=flat-round&logo=nixos&logoColor=black)  
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-00684A?style=flat-square&logo=mongodb&logoColor=white)
-![Zed](https://img.shields.io/badge/-Zed-white?style=flat-square&logo=zedindustries&logoColor=black)
+![Svelte](https://img.shields.io/badge/-Svelte-35a77c?style=flat-round&logo=svelte&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-35a77c?style=flat-round&logo=sass&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-35a77c?style=flat-round&logo=mongodb&logoColor=white)
 
-#### > `📫 Connect with me`
 
-[![Twitter](https://img.shields.io/badge/-X/Twitter-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/@jokiller230)
-[![Discord](https://img.shields.io/badge/-Bluesky-349CFF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/thevoid.cafe)
+┌─────────────────────────────────────────────┐  
+~ 📄  _recent commits_  
+└─────────────────────────────────────────────┘
+
+_W.I.P_
+
+Recent projects include:  
+`Puzzlevision` My NixOS flake  
+`VoidyDiscord` My all-around Discord utility bot  
+`Snowflake` My personal status and mood tracking API
+
+┌─────────────────────────────────────────────┐  
+~ 📫  _reach out_  
+└─────────────────────────────────────────────┘
+
+🐦 [`@jokiller230`](https://x.com/@jokiller230)  
+🌌 [`@thevoid.cafe`](https://bsky.app/profile/thevoid.cafe)  
+✉️ `contact@thevoid.cafe`
+
+___
+🌲 stay kind & keep building.
