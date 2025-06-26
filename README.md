@@ -25,6 +25,7 @@ Recent projects include:
 ❯ `puzzlevision` My NixOS flake  
 ❯ `VoidyDiscord` My all-around Discord utility bot  
 ❯ `Snowflake` My personal status and mood tracking API
+❯ `Cosmic` A simple and extendable TypeScript based 2d game engine, using the Canvas 2D context.
 
 ┌─────────────────────────────────────────────┐  
 ~ 📫  _reach out_  
