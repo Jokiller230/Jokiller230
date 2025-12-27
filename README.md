@@ -16,10 +16,8 @@
 
 
 ┌─────────────────────────┐  
-~ 📄  _recent commits_  
+~ 📄  _recent projects_  
 └─────────────────────────┘
-
-_W.I.P_
 
 Recent projects include:  
 ❯ `puzzlevision` My NixOS flake  
