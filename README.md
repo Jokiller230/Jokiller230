@@ -38,3 +38,5 @@ Recent projects include:
 ___
 
 ☕ stay kind & keep building 🌿
+
+![jokiller230](https://count.getloli.com/@jokiller230?theme=3d-num)
