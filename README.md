@@ -1,40 +1,32 @@
-┌─────────────────────────┐  
-~ ☕ _hey, i'm jo_  
-└─────────────────────────┘
+### ☕ Hey, I'm Jo!
 
-> I'm a web developer with a soft spot for VR tinkering, game modding, and NixOS systems.  
-> You'll find me playing with TypeScript, crafting cozy UIs, or tweaking Bonelab mods on my Quest 3.
+> I'm a full-stack web-developer with a soft spot for statistics, game modding, and NixOS systems.  
+> Whether I'm crafting UIs, writing a new Hytale plugin or tweaking one of my systems, you name it!
 
 > Anywho, that's about it, feel free to check out some of my repositories...
 
-┌─────────────────────────┐  
-~ ⌨️ _languages & tools_  
-└─────────────────────────┘
+___
+### ⌨️ Languages and tools
 
-💻  TypeScript · Rust · PHP  
-📦  Nix · MongoDB · PostgreSQL · Sass · Svelte
+> TypeScript/JavaScript · PHP · Nix  
+> MongoDB · SQLite · PostgreSQL · SCSS · Svelte · Docker
 
+___
+### 📄 Current projects
 
-┌─────────────────────────┐  
-~ 📄  _recent projects_  
-└─────────────────────────┘
+> ❯ `puzzlevision` My NixOS configuration/dotfiles, using flakes.  
+> ❯ `voidy` Discord utility bot, and framework.  
+> ❯ `snowflake` Personal event-aggregator with state caching, intended to be used like Discord's RPC.  
+> ❯ `cosmic` Simple TypeScript-based Canvas 2D game engine and ECS implementation.  
 
-Recent projects include:  
-❯ `puzzlevision` My NixOS flake  
-❯ `VoidyDiscord` My all-around Discord utility bot  
-❯ `Snowflake` My personal status and mood tracking API  
-❯ `Cosmic` A simple and extendable TypeScript based 2d game engine, using the Canvas 2D context.
+___
+### 📫 Reach out!
 
-┌─────────────────────────┐  
-~ 📫  _reach out_  
-└─────────────────────────┘
-
-🐦 [`@jokiller230`](https://x.com/@jokiller230)  
-🦋 [`@thevoid.cafe`](https://bsky.app/profile/thevoid.cafe)  
-💌 `contact@thevoid.cafe`
+> 🦋 [`@thevoid.cafe`](https://bsky.app/profile/thevoid.cafe)  
+> 💌 `contact@thevoid.cafe`
 
 ___
 
-☕ stay kind & keep building 🌿
+![jokiller230](https://count.getloli.com/@jokiller230?theme=moebooru&darkmode=0)  
 
-![jokiller230](https://count.getloli.com/@jokiller230?theme=3d-num)
+☕ stay kind & keep building 🌿
